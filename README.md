@@ -82,6 +82,11 @@ Official website for the digital agency, highlighting innovative solutions and i
 - **Technologies:** Web App, Corporate
 - **Link:** [icyerekezodigital.com](https://icyerekezodigital.com)
 
+### <img src="https://api.iconify.design/mdi:school.svg?color=white" width="24" style="vertical-align: middle;"> The Light of Engineer
+A comprehensive platform for posting jobs, internships, fellowships, and other services, seamlessly integrated with an advanced e-learning system for continuous professional development.
+- **Technologies:** Job Board, E-Learning, EdTech
+- **Link:** [thelightofengineer.com](https://thelightofengineer.com)
+
 ---
 <div align="center">
   <i>"Building scalable software for a digital future."</i>

@@ -154,6 +154,15 @@ $projects = [
         'metrics' => ['Metric' => 'Data Accuracy', 'Value' => '99%'],
         'tags' => ['Management', 'System'],
         'link' => 'https://icyerekezodigital.online'
+    ],
+    [
+        'title' => 'The Light of Engineer',
+        'category' => 'Job Portal & E-Learning',
+        'image' => 'assets/projects/the_light_of_engineer.png',
+        'description' => 'A comprehensive platform for posting jobs, internships, fellowships, and other services, seamlessly integrated with an advanced e-learning system for continuous professional development.',
+        'metrics' => ['Metric' => 'Opportunities', 'Value' => 'Diverse'],
+        'tags' => ['Job Board', 'E-Learning', 'EdTech'],
+        'link' => 'https://thelightofengineer.com'
     ]
 ];
 
