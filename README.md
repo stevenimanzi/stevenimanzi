@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Steven IMANZI <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white#gh-dark-mode-only" width="32" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:hand-wave.svg?color=black#gh-light-mode-only" width="32" style="vertical-align: middle;"></h1>
+  <h1>Hi there, I'm Steven IMANZI <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white" width="32" style="vertical-align: middle;"></h1>
   <h3>Full-Stack Developer | Founder & CEO of IMANZI Labs | IT Consultant</h3>
   
   <p>Based in Kigali, Rwanda <img src="https://api.iconify.design/flag:rw-4x3.svg" width="20" style="vertical-align: middle; border-radius: 2px;"></p>
@@ -17,19 +17,19 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi:account-tie.svg?color=white#gh-dark-mode-only" width="28" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:account-tie.svg?color=black#gh-light-mode-only" width="28" style="vertical-align: middle;"> About Me
+## <img src="https://api.iconify.design/mdi:account-tie.svg?color=white" width="28" style="vertical-align: middle;"> About Me
 
 I am a passionate **Full-Stack Developer** and the **Founder & CEO of IMANZI Labs**, with a strong background in building scalable web and mobile applications. I specialize in crafting custom software solutions, e-commerce platforms, and management systems that drive business efficiency and growth. 
 
-- <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white#gh-dark-mode-only" width="18" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:rocket-launch.svg?color=black#gh-light-mode-only" width="18" style="vertical-align: middle;"> Currently running **IMANZI Labs** and building innovative digital solutions.
-- <img src="https://api.iconify.design/mdi:laptop.svg?color=white#gh-dark-mode-only" width="18" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:laptop.svg?color=black#gh-light-mode-only" width="18" style="vertical-align: middle;"> Working as a Full-Stack Developer at **ICYEREKEZO DIGITAL INNOVATION Ltd**.
-- <img src="https://api.iconify.design/mdi:school.svg?color=white#gh-dark-mode-only" width="18" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:school.svg?color=black#gh-light-mode-only" width="18" style="vertical-align: middle;"> Pursuing a Bachelor's in E-Commerce at RP Musanze College.
-- <img src="https://api.iconify.design/mdi:lightbulb-on.svg?color=white#gh-dark-mode-only" width="18" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:lightbulb-on.svg?color=black#gh-light-mode-only" width="18" style="vertical-align: middle;"> Always exploring new technologies like AI/ML, cloud computing, and advanced web development.
-- <img src="https://api.iconify.design/mdi:email.svg?color=white#gh-dark-mode-only" width="18" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:email.svg?color=black#gh-light-mode-only" width="18" style="vertical-align: middle;"> How to reach me: **stivenimanzi1@gmail.com** or via [LinkedIn](https://rw.linkedin.com/in/steven-imanzi)
+- <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white" width="18" style="vertical-align: middle;"> Currently running **IMANZI Labs** and building innovative digital solutions.
+- <img src="https://api.iconify.design/mdi:laptop.svg?color=white" width="18" style="vertical-align: middle;"> Working as a Full-Stack Developer at **ICYEREKEZO DIGITAL INNOVATION Ltd**.
+- <img src="https://api.iconify.design/mdi:school.svg?color=white" width="18" style="vertical-align: middle;"> Pursuing a Bachelor's in E-Commerce at RP Musanze College.
+- <img src="https://api.iconify.design/mdi:lightbulb-on.svg?color=white" width="18" style="vertical-align: middle;"> Always exploring new technologies like AI/ML, cloud computing, and advanced web development.
+- <img src="https://api.iconify.design/mdi:email.svg?color=white" width="18" style="vertical-align: middle;"> How to reach me: **stivenimanzi1@gmail.com** or via [LinkedIn](https://rw.linkedin.com/in/steven-imanzi)
 
 ---
 
-## <img src="https://api.iconify.design/mdi:tools.svg?color=white#gh-dark-mode-only" width="28" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:tools.svg?color=black#gh-light-mode-only" width="28" style="vertical-align: middle;"> Skills & Technologies
+## <img src="https://api.iconify.design/mdi:tools.svg?color=white" width="28" style="vertical-align: middle;"> Skills & Technologies
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -60,24 +60,24 @@ I am a passionate **Full-Stack Developer** and the **Founder & CEO of IMANZI Lab
 
 ---
 
-## <img src="https://api.iconify.design/mdi:briefcase.svg?color=white#gh-dark-mode-only" width="28" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:briefcase.svg?color=black#gh-light-mode-only" width="28" style="vertical-align: middle;"> Featured Projects
+## <img src="https://api.iconify.design/mdi:briefcase.svg?color=white" width="28" style="vertical-align: middle;"> Featured Projects
 
-### <img src="https://api.iconify.design/mdi:domain.svg?color=white#gh-dark-mode-only" width="24" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:domain.svg?color=black#gh-light-mode-only" width="24" style="vertical-align: middle;"> NOGUCHI HOLDINGS Ltd
+### <img src="https://api.iconify.design/mdi:domain.svg?color=white" width="24" style="vertical-align: middle;"> NOGUCHI HOLDINGS Ltd
 Corporate website showcasing their services and portfolio, leading to a 45% increase in user engagement.
 - **Technologies:** Web Design, CMS
 - **Link:** [noguchi.rw](https://noguchi.rw)
 
-### <img src="https://api.iconify.design/mdi:factory.svg?color=white#gh-dark-mode-only" width="24" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:factory.svg?color=black#gh-light-mode-only" width="24" style="vertical-align: middle;"> ICYEREKEZO OMS
+### <img src="https://api.iconify.design/mdi:factory.svg?color=white" width="24" style="vertical-align: middle;"> ICYEREKEZO OMS
 A comprehensive Factory Operation Management System to streamline industrial processes and increase operational efficiency by 40%.
 - **Technologies:** Web App, ERP
 - **Link:** [icyerekezooms.com](https://icyerekezooms.com)
 
-### <img src="https://api.iconify.design/mdi:cart.svg?color=white#gh-dark-mode-only" width="24" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:cart.svg?color=black#gh-light-mode-only" width="24" style="vertical-align: middle;"> Trust Rwanda
+### <img src="https://api.iconify.design/mdi:cart.svg?color=white" width="24" style="vertical-align: middle;"> Trust Rwanda
 A dynamic multivendor E-Commerce platform enabling multiple sellers to manage stores, achieving a 60% sales growth.
 - **Technologies:** E-Commerce, Multivendor
 - **Link:** [Trust Rwanda](https://trustrwanda.onrender.com/)
 
-### <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white#gh-dark-mode-only" width="24" style="vertical-align: middle;"><img src="https://api.iconify.design/mdi:rocket-launch.svg?color=black#gh-light-mode-only" width="24" style="vertical-align: middle;"> ICYEREKEZO DIGITAL INNOVATION Ltd
+### <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white" width="24" style="vertical-align: middle;"> ICYEREKEZO DIGITAL INNOVATION Ltd
 Official website for the digital agency, highlighting innovative solutions and increasing client acquisition.
 - **Technologies:** Web App, Corporate
 - **Link:** [icyerekezodigital.com](https://icyerekezodigital.com)
