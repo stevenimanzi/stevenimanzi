@@ -83,19 +83,6 @@ Official website for the digital agency, highlighting innovative solutions and i
 - **Link:** [icyerekezodigital.com](https://icyerekezodigital.com)
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenimanzi&show_icons=true&theme=radical&hide_border=true" alt="Steven's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenimanzi&theme=radical&hide_border=true" alt="Steven's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenimanzi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
 <div align="center">
   <i>"Building scalable software for a digital future."</i>
 </div>
