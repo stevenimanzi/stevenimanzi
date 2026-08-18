@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm Steven IMANZI 👋</h1>
+  <h1>Hi there, I'm Steven IMANZI <img src="https://api.iconify.design/mdi:hand-wave.svg" width="32" style="vertical-align: middle;"></h1>
   <h3>Full-Stack Developer | Founder & CEO of IMANZI Labs | IT Consultant</h3>
   
-  <p>Based in Kigali, Rwanda 🇷🇼</p>
+  <p>Based in Kigali, Rwanda <img src="https://api.iconify.design/flag:rw-4x3.svg" width="20" style="vertical-align: middle; border-radius: 2px;"></p>
 
   <a href="https://rw.linkedin.com/in/steven-imanzi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,19 +17,19 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/mdi:account-tie.svg" width="28" style="vertical-align: middle;"> About Me
 
 I am a passionate **Full-Stack Developer** and the **Founder & CEO of IMANZI Labs**, with a strong background in building scalable web and mobile applications. I specialize in crafting custom software solutions, e-commerce platforms, and management systems that drive business efficiency and growth. 
 
-- 🚀 Currently running **IMANZI Labs** and building innovative digital solutions.
-- 💻 Working as a Full-Stack Developer at **ICYEREKEZO DIGITAL INNOVATION Ltd**.
-- 🎓 Pursuing a Bachelor's in E-Commerce at RP Musanze College.
-- 💡 Always exploring new technologies like AI/ML, cloud computing, and advanced web development.
-- 📫 How to reach me: **stivenimanzi1@gmail.com** or via [LinkedIn](https://rw.linkedin.com/in/steven-imanzi)
+- <img src="https://api.iconify.design/mdi:rocket-launch.svg" width="18" style="vertical-align: middle;"> Currently running **IMANZI Labs** and building innovative digital solutions.
+- <img src="https://api.iconify.design/mdi:laptop.svg" width="18" style="vertical-align: middle;"> Working as a Full-Stack Developer at **ICYEREKEZO DIGITAL INNOVATION Ltd**.
+- <img src="https://api.iconify.design/mdi:school.svg" width="18" style="vertical-align: middle;"> Pursuing a Bachelor's in E-Commerce at RP Musanze College.
+- <img src="https://api.iconify.design/mdi:lightbulb-on.svg" width="18" style="vertical-align: middle;"> Always exploring new technologies like AI/ML, cloud computing, and advanced web development.
+- <img src="https://api.iconify.design/mdi:email.svg" width="18" style="vertical-align: middle;"> How to reach me: **stivenimanzi1@gmail.com** or via [LinkedIn](https://rw.linkedin.com/in/steven-imanzi)
 
 ---
 
-## 🛠️ Skills & Technologies
+## <img src="https://api.iconify.design/mdi:tools.svg" width="28" style="vertical-align: middle;"> Skills & Technologies
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -60,24 +60,24 @@ I am a passionate **Full-Stack Developer** and the **Founder & CEO of IMANZI Lab
 
 ---
 
-## 💼 Featured Projects
+## <img src="https://api.iconify.design/mdi:briefcase.svg" width="28" style="vertical-align: middle;"> Featured Projects
 
-### 🏢 NOGUCHI HOLDINGS Ltd
+### <img src="https://api.iconify.design/mdi:domain.svg" width="24" style="vertical-align: middle;"> NOGUCHI HOLDINGS Ltd
 Corporate website showcasing their services and portfolio, leading to a 45% increase in user engagement.
 - **Technologies:** Web Design, CMS
 - **Link:** [noguchi.rw](https://noguchi.rw)
 
-### 🏭 ICYEREKEZO OMS
+### <img src="https://api.iconify.design/mdi:factory.svg" width="24" style="vertical-align: middle;"> ICYEREKEZO OMS
 A comprehensive Factory Operation Management System to streamline industrial processes and increase operational efficiency by 40%.
 - **Technologies:** Web App, ERP
 - **Link:** [icyerekezooms.com](https://icyerekezooms.com)
 
-### 🛒 Trust Rwanda
+### <img src="https://api.iconify.design/mdi:cart.svg" width="24" style="vertical-align: middle;"> Trust Rwanda
 A dynamic multivendor E-Commerce platform enabling multiple sellers to manage stores, achieving a 60% sales growth.
 - **Technologies:** E-Commerce, Multivendor
 - **Link:** [Trust Rwanda](https://trustrwanda.onrender.com/)
 
-### 🚀 ICYEREKEZO DIGITAL INNOVATION Ltd
+### <img src="https://api.iconify.design/mdi:rocket-launch.svg" width="24" style="vertical-align: middle;"> ICYEREKEZO DIGITAL INNOVATION Ltd
 Official website for the digital agency, highlighting innovative solutions and increasing client acquisition.
 - **Technologies:** Web App, Corporate
 - **Link:** [icyerekezodigital.com](https://icyerekezodigital.com)
