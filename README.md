@@ -72,10 +72,10 @@ A comprehensive Factory Operation Management System to streamline industrial pro
 - **Technologies:** Web App, ERP
 - **Link:** [icyerekezooms.com](https://icyerekezooms.com)
 
-### <img src="https://api.iconify.design/mdi:cart.svg?color=white" width="24" style="vertical-align: middle;"> Trust Rwanda
+### <img src="https://api.iconify.design/mdi:cart.svg?color=white" width="24" style="vertical-align: middle;"> ICYEREKEZO Digital Market
 A dynamic multivendor E-Commerce platform enabling multiple sellers to manage stores, achieving a 60% sales growth.
 - **Technologies:** E-Commerce, Multivendor
-- **Link:** [Trust Rwanda](https://trustrwanda.onrender.com/)
+- **Link:** [ICYEREKEZO Digital Market](https://icyerekezodigital.online/)
 
 ### <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white" width="24" style="vertical-align: middle;"> ICYEREKEZO DIGITAL INNOVATION Ltd
 Official website for the digital agency, highlighting innovative solutions and increasing client acquisition.
