@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Steven IMANZI <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white" width="32" style="vertical-align: middle;"></h1>
-  <h3>Full-Stack Developer | Founder & CEO of IMANZI Labs | IT Consultant</h3>
+  <h3>Full-Stack Developer | CO-Founder & Managing Director of ICYEREKEZO DIGITAL INNOVATION Ltd </h3>
   
   <p>Based in Kigali, Rwanda <img src="https://api.iconify.design/flag:rw-4x3.svg" width="20" style="vertical-align: middle; border-radius: 2px;"></p>
 
@@ -19,9 +19,8 @@
 
 ## <img src="https://api.iconify.design/mdi:account-tie.svg?color=white" width="28" style="vertical-align: middle;"> About Me
 
-I am a passionate **Full-Stack Developer** and the **Founder & CEO of IMANZI Labs**, with a strong background in building scalable web and mobile applications. I specialize in crafting custom software solutions, e-commerce platforms, and management systems that drive business efficiency and growth. 
+I am a passionate **Full-Stack Developer** and the **CO-Founder & MD of ICYEREKEZO DIGITAL INNOVATION Ltd**, with a strong background in building scalable web and mobile applications. I specialize in crafting custom software solutions, e-commerce platforms, and management systems that drive business efficiency and growth. 
 
-- <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white" width="18" style="vertical-align: middle;"> Currently running **IMANZI Labs** and building innovative digital solutions.
 - <img src="https://api.iconify.design/mdi:laptop.svg?color=white" width="18" style="vertical-align: middle;"> Working as a Full-Stack Developer at **ICYEREKEZO DIGITAL INNOVATION Ltd**.
 - <img src="https://api.iconify.design/mdi:school.svg?color=white" width="18" style="vertical-align: middle;"> Pursuing a Bachelor's in E-Commerce at RP Musanze College.
 - <img src="https://api.iconify.design/mdi:lightbulb-on.svg?color=white" width="18" style="vertical-align: middle;"> Always exploring new technologies like AI/ML, cloud computing, and advanced web development.
