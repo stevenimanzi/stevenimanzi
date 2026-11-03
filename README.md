@@ -58,7 +58,7 @@ I am a passionate **Full-Stack Developer** and the **CO-Founder & MD of ICYEREKE
 
 ---
 
-</h2>Featured Projects</h2>
+<h1>Featured Projects</h1>
 
 <h3>NOGUCHI HOLDINGS Ltd</h3>
 Corporate website showcasing their services and portfolio, leading to a 45% increase in user engagement.<br>
