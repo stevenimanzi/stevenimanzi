@@ -62,27 +62,22 @@ I am a passionate **Full-Stack Developer** and the **CO-Founder & MD of ICYEREKE
 
 <h3>NOGUCHI HOLDINGS Ltd</h3>
 Corporate website showcasing their services and portfolio, leading to a 45% increase in user engagement.
-- **Technologies:** Web Design, CMS
 - **Link:** [noguchi.rw](https://noguchi.rw)
 
-### <img src="https://api.iconify.design/mdi:factory.svg?color=white" width="24" style="vertical-align: middle;"> ICYEREKEZO OMS
+<h3>ICYEREKEZO OMS</h3>
 A comprehensive Factory Operation Management System to streamline industrial processes and increase operational efficiency by 40%.
-- **Technologies:** Web App, ERP
 - **Link:** [icyerekezooms.com](https://icyerekezooms.com)
 
-### <img src="https://api.iconify.design/mdi:cart.svg?color=white" width="24" style="vertical-align: middle;"> ICYEREKEZO Digital Market
+<h3>ICYEREKEZO Digital Market</h3>
 A dynamic multivendor E-Commerce platform enabling multiple sellers to manage stores, achieving a 60% sales growth.
-- **Technologies:** E-Commerce, Multivendor
 - **Link:** [ICYEREKEZO Digital Market](https://icyerekezodigital.online/)
 
-### <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=white" width="24" style="vertical-align: middle;"> ICYEREKEZO DIGITAL INNOVATION Ltd
+<h3>ICYEREKEZO DIGITAL INNOVATION Ltd</h3>
 Official website for the digital agency, highlighting innovative solutions and increasing client acquisition.
-- **Technologies:** Web App, Corporate
 - **Link:** [icyerekezodigital.com](https://icyerekezodigital.com)
 
-### <img src="https://api.iconify.design/mdi:school.svg?color=white" width="24" style="vertical-align: middle;"> The Light of Engineer
+<h3>The Light of Engineer</h3>
 A comprehensive platform for posting jobs, internships, fellowships, and other services, seamlessly integrated with an advanced e-learning system for continuous professional development.
-- **Technologies:** Job Board, E-Learning, EdTech
 - **Link:** [thelightofengineer.com](https://thelightofengineer.com)
 
 ---
