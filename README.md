@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Steven IMANZI</h1>
   <h3>Full-Stack Developer | CO-Founder & Managing Director of ICYEREKEZO DIGITAL INNOVATION Ltd </h3>
   
-  <p>Based in Kigali, Rwanda ></p>
+  <p>Based in Kigali, Rwanda </p>
 
   <a href="https://rw.linkedin.com/in/steven-imanzi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
