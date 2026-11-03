@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm Steven IMANZI <img src="https://api.iconify.design/mdi:hand-wave.svg?color=white" width="32" style="vertical-align: middle;"></h1>
+  <h1>Hi there, I'm Steven IMANZI</h1>
   <h3>Full-Stack Developer | CO-Founder & Managing Director of ICYEREKEZO DIGITAL INNOVATION Ltd </h3>
   
-  <p>Based in Kigali, Rwanda <img src="https://api.iconify.design/flag:rw-4x3.svg" width="20" style="vertical-align: middle; border-radius: 2px;"></p>
+  <p>Based in Kigali, Rwanda ></p>
 
   <a href="https://rw.linkedin.com/in/steven-imanzi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -61,24 +61,24 @@ I am a passionate **Full-Stack Developer** and the **CO-Founder & MD of ICYEREKE
 </h2>Featured Projects</h2>
 
 <h3>NOGUCHI HOLDINGS Ltd</h3>
-Corporate website showcasing their services and portfolio, leading to a 45% increase in user engagement.
-- **Link:** [noguchi.rw](https://noguchi.rw)
+Corporate website showcasing their services and portfolio, leading to a 45% increase in user engagement.<br>
+- Link: [noguchi.rw](https://noguchi.rw)
 
 <h3>ICYEREKEZO OMS</h3>
-A comprehensive Factory Operation Management System to streamline industrial processes and increase operational efficiency by 40%.
-- **Link:** [icyerekezooms.com](https://icyerekezooms.com)
+A comprehensive Factory Operation Management System to streamline industrial processes and increase operational efficiency by 40%.<br>
+- Link: [icyerekezooms.com](https://icyerekezooms.com)
 
 <h3>ICYEREKEZO Digital Market</h3>
-A dynamic multivendor E-Commerce platform enabling multiple sellers to manage stores, achieving a 60% sales growth.
-- **Link:** [ICYEREKEZO Digital Market](https://icyerekezodigital.online/)
+A dynamic multivendor E-Commerce platform enabling multiple sellers to manage stores, achieving a 60% sales growth.<br>
+- Link: [ICYEREKEZO Digital Market](https://icyerekezodigital.online/)
 
 <h3>ICYEREKEZO DIGITAL INNOVATION Ltd</h3>
-Official website for the digital agency, highlighting innovative solutions and increasing client acquisition.
-- **Link:** [icyerekezodigital.com](https://icyerekezodigital.com)
+Official website for the digital agency, highlighting innovative solutions and increasing client acquisition.<br>
+- Link: [icyerekezodigital.com](https://icyerekezodigital.com)
 
 <h3>The Light of Engineer</h3>
-A comprehensive platform for posting jobs, internships, fellowships, and other services, seamlessly integrated with an advanced e-learning system for continuous professional development.
-- **Link:** [thelightofengineer.com](https://thelightofengineer.com)
+A comprehensive platform for posting jobs, internships, fellowships, and other services, seamlessly integrated with an advanced e-learning system for continuous professional development.<br>
+- Link: [thelightofengineer.com](https://thelightofengineer.com)
 
 ---
 <div align="center">
