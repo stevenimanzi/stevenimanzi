@@ -17,18 +17,17 @@
 
 <br/>
 
-<img src="https://api.iconify.design/mdi:account-tie.svg?color=white" width="28" style="vertical-align: middle;"> About Me
+About Me
 
 I am a passionate **Full-Stack Developer** and the **CO-Founder & MD of ICYEREKEZO DIGITAL INNOVATION Ltd**, with a strong background in building scalable web and mobile applications. I specialize in crafting custom software solutions, e-commerce platforms, and management systems that drive business efficiency and growth. 
 
-- <img src="https://api.iconify.design/mdi:laptop.svg?color=white" width="18" style="vertical-align: middle;"> Working as a Full-Stack Developer at **ICYEREKEZO DIGITAL INNOVATION Ltd**.
-- <img src="https://api.iconify.design/mdi:school.svg?color=white" width="18" style="vertical-align: middle;"> Pursuing a Bachelor's in E-Commerce at RP Musanze College.
-- <img src="https://api.iconify.design/mdi:lightbulb-on.svg?color=white" width="18" style="vertical-align: middle;"> Always exploring new technologies like AI/ML, cloud computing, and advanced web development.
-- <img src="https://api.iconify.design/mdi:email.svg?color=white" width="18" style="vertical-align: middle;"> How to reach me: **stivenimanzi1@gmail.com** or via [LinkedIn](https://rw.linkedin.com/in/steven-imanzi)
+- Working as a Full-Stack Developer at **ICYEREKEZO DIGITAL INNOVATION Ltd**.
+- Pursuing a Bachelor's in E-Commerce at RP Musanze College.
+- Always exploring new technologies like AI/ML, cloud computing, and advanced web development.
+- How to reach me: **stivenimanzi1@gmail.com** or via [LinkedIn](https://rw.linkedin.com/in/steven-imanzi)
 
 ---
-
-## <img src="https://api.iconify.design/mdi:tools.svg?color=white" width="28" style="vertical-align: middle;"> Skills & Technologies
+Skills & Technologies
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
