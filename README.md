@@ -27,7 +27,7 @@ I am a passionate **Full-Stack Developer** and the **CO-Founder & MD of ICYEREKE
 - How to reach me: **stivenimanzi1@gmail.com** or via [LinkedIn](https://rw.linkedin.com/in/steven-imanzi)
 
 ---
-Skills & Technologies
+<h2>Skills & Technologies</h2>
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -58,9 +58,9 @@ Skills & Technologies
 
 ---
 
-## <img src="https://api.iconify.design/mdi:briefcase.svg?color=white" width="28" style="vertical-align: middle;"> Featured Projects
+</h2>Featured Projects</h2>
 
-### <img src="https://api.iconify.design/mdi:domain.svg?color=white" width="24" style="vertical-align: middle;"> NOGUCHI HOLDINGS Ltd
+<h3>NOGUCHI HOLDINGS Ltd</h3>
 Corporate website showcasing their services and portfolio, leading to a 45% increase in user engagement.
 - **Technologies:** Web Design, CMS
 - **Link:** [noguchi.rw](https://noguchi.rw)
