@@ -17,7 +17,7 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/mdi:account-tie.svg?color=white" width="28" style="vertical-align: middle;"> About Me
+<img src="https://api.iconify.design/mdi:account-tie.svg?color=white" width="28" style="vertical-align: middle;"> About Me
 
 I am a passionate **Full-Stack Developer** and the **CO-Founder & MD of ICYEREKEZO DIGITAL INNOVATION Ltd**, with a strong background in building scalable web and mobile applications. I specialize in crafting custom software solutions, e-commerce platforms, and management systems that drive business efficiency and growth. 
 
